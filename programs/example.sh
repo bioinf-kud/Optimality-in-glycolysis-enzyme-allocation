@@ -1,0 +1,1 @@
+./code/reaction_process_permutation -r ./example/sce_glycolysis.tsv -e ./examplesce_enzyme_data.tsv -i ./example/sce_proteome_matrix.tsv -o ./sce.glycolysis.tsv  -t
