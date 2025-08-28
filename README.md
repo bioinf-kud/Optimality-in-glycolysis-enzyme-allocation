@@ -14,7 +14,7 @@ This directory stores c programs and a set of test data.
 
 Requirements
 ------------
-*Figures in this document were generated using these versions. However, the specific version is not a strict requirement to reproduce the results.*<br> 
+*Figures in this document were generated using packages in these versions. However, the specific version is not a strict requirement to reproduce the results.*<br> 
 
 R(4.3.2)
 
