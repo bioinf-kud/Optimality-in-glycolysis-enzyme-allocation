@@ -7,7 +7,7 @@ This repository stores all programs and related datasets involved in this study.
 
 
 *./figures_and_source_data/*<br>
-This directory stores all R scripts and tables used to generate all figures. Datasets were compressed, unzip is needed before use.
+This directory stores all R scripts and tables used to generate all figures. Datasets were compressed, please unzip them before use.
 
 *./programs/*<br> 
 This directory stores c programs and a set of test data. 
